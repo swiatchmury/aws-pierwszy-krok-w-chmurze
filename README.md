@@ -3,7 +3,9 @@
 ## Konto w AWS
 
 [7 kroków do własnego konta AWS](https://swiatchmury.pl/7-krokow-do-wlasnego-konta-w-aws/)
+
 [Pierwsze logowanie](https://swiatchmury.pl/pierwsze-logowanie-w-aws/)
+
 [Zabezpieczenie konta](https://swiatchmury.pl/zabezpiecz-sie-twoje-konto-w-aws-tez/)
 
 ## Kursy
@@ -27,13 +29,17 @@ Raz na jakiś czas AWS organizuje konferencje on-line. Specjalnie dla początkuj
 Chmurowców spotkasz w tych grupach:
 
 [AWS Useg Group Poland](https://www.meetup.com/AWSUGPL) - spotkania są w kilku miastach w Polsce
+
 [AWS Polska](https://www.meetup.com/aws-polska)
+
 [Serverless UG Poland](https://www.meetup.com/ServerlessUGPL/)
 
 ## Whitepapers & dokumenty
 
 [AWS overview](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+
 [Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
 [AWS Pricing](http://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
 
 ## Filmy
