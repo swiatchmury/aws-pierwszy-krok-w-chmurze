@@ -36,11 +36,15 @@ Chmurowców spotkasz w tych grupach:
 
 [Serverless UG Poland](https://www.meetup.com/ServerlessUGPL/)
 
-### On-line
+### Slack
 
 Dołącz do chmurowego slacka: [Slack](https://github.com/swiatchmury/slack)
 
 Jest tam kanał `#cloud-kindergarten` - specjalnie dla stawiających pierwszy krok w chmurze. Miejsce przejściowe - na innych kanałach jest jeszcze ciekawiej ;-)
+
+### Facebook
+
+[AWS User Group Poland](https://www.facebook.com/groups/AWSUserGroupPoland/)
 
 ## Whitepapers & dokumenty
 
