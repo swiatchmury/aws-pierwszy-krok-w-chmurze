@@ -18,7 +18,7 @@ Załozenie konta nic nie kosztuje. W portalu dostępnych jest sporo darmowych sz
 
 [AWS Training](https://www.aws.training/)
 
-## AWS Online Conferences
+## Konferencje Online
 
 Raz na jakiś czas AWS organizuje konferencje on-line. Specjalnie dla początkujących jest ta:
 
@@ -45,6 +45,12 @@ Jest tam kanał `#cloud-kindergarten` - specjalnie dla stawiających pierwszy kr
 ### Facebook
 
 [AWS User Group Poland](https://www.facebook.com/groups/AWSUserGroupPoland/)
+
+## AWS Warsaw Summit
+
+W 2019 w Warszawie miała miejsce 1. konferencja w naszej części Europy. 
+
+A 28.05.2020 będzie znowu: [Rejestracja](https://aws.amazon.com/events/summits/warsaw/)
 
 ## Whitepapers & dokumenty
 
