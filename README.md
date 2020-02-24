@@ -24,7 +24,9 @@ Raz na jakiś czas AWS organizuje konferencje on-line. Specjalnie dla początkuj
 
 [AWSome Day Online Conference](https://aws.amazon.com/events/awsome-day/awsome-day-online/)
 
-## Meetup
+## Społeczność
+
+### Meetupy
 
 Chmurowców spotkasz w tych grupach:
 
@@ -33,6 +35,12 @@ Chmurowców spotkasz w tych grupach:
 [AWS Polska](https://www.meetup.com/aws-polska)
 
 [Serverless UG Poland](https://www.meetup.com/ServerlessUGPL/)
+
+### On-line
+
+Dołącz do chmurowego slacka: [Slack](https://github.com/swiatchmury/slack)
+
+Jest tam kanał `#cloud-kindergarten` - specjalnie dla stawiających pierwszy krok w chmurze. Miejsce przejściowe - na innych kanałach jest jeszcze ciekawiej ;-)
 
 ## Whitepapers & dokumenty
 
