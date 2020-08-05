@@ -30,7 +30,7 @@ Raz na jakiś czas AWS organizuje konferencje on-line. Specjalnie dla początkuj
 
 Chmurowców spotkasz w tych grupach:
 
-[AWS Useg Group Poland](https://www.meetup.com/AWSUGPL) - spotkania są w kilku miastach w Polsce
+[AWS User Group Poland](https://www.meetup.com/AWSUGPL) - spotkania są w kilku miastach w Polsce
 
 [AWS Polska](https://www.meetup.com/aws-polska)
 
@@ -49,8 +49,6 @@ Jest tam kanał `#cloud-kindergarten` - specjalnie dla stawiających pierwszy kr
 ## AWS Warsaw Summit
 
 W 2019 w Warszawie miała miejsce 1. konferencja w naszej części Europy. 
-
-A 28.05.2020 będzie znowu: [Rejestracja](https://aws.amazon.com/events/summits/warsaw/)
 
 ## Whitepapers & dokumenty
 
